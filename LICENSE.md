@@ -4,8 +4,8 @@ so
 I want to use put my project under MIT licences too.
 
 some important references is under the list:
-python urllib ,urllib2 and some other class library;
-opensource class library --- Beautifulsoup.
+python urllib,urllib2 and some other class library;
+opensource class library like Beautifulsoup etc.
 
 all the legal or reasonable demands are reserved.
 
